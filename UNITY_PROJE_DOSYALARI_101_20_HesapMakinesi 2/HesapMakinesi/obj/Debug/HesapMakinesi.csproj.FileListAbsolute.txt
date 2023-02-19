@@ -1,0 +1,14 @@
+C:/Users/Cengiz/Desktop/HesapMakinesi/HesapMakinesi/bin/Debug/HesapMakinesi.exe.config
+C:/Users/Cengiz/Desktop/HesapMakinesi/HesapMakinesi/bin/Debug/HesapMakinesi.exe
+C:/Users/Cengiz/Desktop/HesapMakinesi/HesapMakinesi/bin/Debug/HesapMakinesi.pdb
+C:/Users/Cengiz/Desktop/HesapMakinesi/HesapMakinesi/obj/Debug/HesapMakinesi.csprojAssemblyReference.cache
+C:/Users/Cengiz/Desktop/HesapMakinesi/HesapMakinesi/obj/Debug/HesapMakinesi.csproj.CoreCompileInputs.cache
+C:/Users/Cengiz/Desktop/HesapMakinesi/HesapMakinesi/obj/Debug/HesapMakinesi.exe
+C:/Users/Cengiz/Desktop/HesapMakinesi/HesapMakinesi/obj/Debug/HesapMakinesi.pdb
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_20_HesapMakinesi 2/HesapMakinesi/bin/Debug/HesapMakinesi.exe.config
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_20_HesapMakinesi 2/HesapMakinesi/bin/Debug/HesapMakinesi.exe
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_20_HesapMakinesi 2/HesapMakinesi/bin/Debug/HesapMakinesi.pdb
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_20_HesapMakinesi 2/HesapMakinesi/obj/Debug/HesapMakinesi.csproj.AssemblyReference.cache
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_20_HesapMakinesi 2/HesapMakinesi/obj/Debug/HesapMakinesi.csproj.CoreCompileInputs.cache
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_20_HesapMakinesi 2/HesapMakinesi/obj/Debug/HesapMakinesi.exe
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_20_HesapMakinesi 2/HesapMakinesi/obj/Debug/HesapMakinesi.pdb

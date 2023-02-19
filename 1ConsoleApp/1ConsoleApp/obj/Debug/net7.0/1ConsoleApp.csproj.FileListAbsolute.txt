@@ -1,0 +1,15 @@
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/bin/Debug/net7.0/1ConsoleApp
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/bin/Debug/net7.0/1ConsoleApp.deps.json
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/bin/Debug/net7.0/1ConsoleApp.runtimeconfig.json
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/bin/Debug/net7.0/1ConsoleApp.dll
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/bin/Debug/net7.0/1ConsoleApp.pdb
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/obj/Debug/net7.0/1ConsoleApp.csproj.AssemblyReference.cache
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/obj/Debug/net7.0/1ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/obj/Debug/net7.0/1ConsoleApp.AssemblyInfoInputs.cache
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/obj/Debug/net7.0/1ConsoleApp.AssemblyInfo.cs
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/obj/Debug/net7.0/1ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/obj/Debug/net7.0/1ConsoleApp.dll
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/obj/Debug/net7.0/refint/1ConsoleApp.dll
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/obj/Debug/net7.0/1ConsoleApp.pdb
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/obj/Debug/net7.0/1ConsoleApp.genruntimeconfig.cache
+/Users/furkan/Desktop/1ConsoleApp/1ConsoleApp/obj/Debug/net7.0/ref/1ConsoleApp.dll

@@ -1,0 +1,14 @@
+C:/Users/Cengiz/Desktop/ZarOyunu/ZarOyunu/bin/Debug/ZarOyunu.exe.config
+C:/Users/Cengiz/Desktop/ZarOyunu/ZarOyunu/bin/Debug/ZarOyunu.exe
+C:/Users/Cengiz/Desktop/ZarOyunu/ZarOyunu/bin/Debug/ZarOyunu.pdb
+C:/Users/Cengiz/Desktop/ZarOyunu/ZarOyunu/obj/Debug/ZarOyunu.csprojAssemblyReference.cache
+C:/Users/Cengiz/Desktop/ZarOyunu/ZarOyunu/obj/Debug/ZarOyunu.csproj.CoreCompileInputs.cache
+C:/Users/Cengiz/Desktop/ZarOyunu/ZarOyunu/obj/Debug/ZarOyunu.exe
+C:/Users/Cengiz/Desktop/ZarOyunu/ZarOyunu/obj/Debug/ZarOyunu.pdb
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_23_ZarOyunu/ZarOyunu/bin/Debug/ZarOyunu.exe.config
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_23_ZarOyunu/ZarOyunu/bin/Debug/ZarOyunu.exe
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_23_ZarOyunu/ZarOyunu/bin/Debug/ZarOyunu.pdb
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_23_ZarOyunu/ZarOyunu/obj/Debug/ZarOyunu.csproj.AssemblyReference.cache
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_23_ZarOyunu/ZarOyunu/obj/Debug/ZarOyunu.csproj.CoreCompileInputs.cache
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_23_ZarOyunu/ZarOyunu/obj/Debug/ZarOyunu.exe
+/Users/furkan/Downloads/UNITY_PROJE_DOSYALARI_101_23_ZarOyunu/ZarOyunu/obj/Debug/ZarOyunu.pdb
